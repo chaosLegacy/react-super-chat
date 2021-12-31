@@ -4,6 +4,7 @@
     "source": "functions"
   },
   "hosting": {
+    "site": "portfolio-super-chat",
     "public": "build",
     "ignore": [
       "firebase.json",
